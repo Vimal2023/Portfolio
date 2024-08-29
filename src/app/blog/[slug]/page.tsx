@@ -29,7 +29,6 @@ export async function generateMetadata({
       description,
       type: "article",
       publishedTime,
-      url: `${DATA.url}/blog/${post.slug}`,
       images: [
         {
           url: ogImage,
