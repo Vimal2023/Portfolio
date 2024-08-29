@@ -31,7 +31,7 @@ export async function generateMetadata({
       publishedTime,
       images: [
         {
-          url: ogImage,
+          url: ,
         },
       ],
     },
